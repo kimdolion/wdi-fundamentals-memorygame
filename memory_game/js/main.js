@@ -29,7 +29,7 @@ var checkForMatch = function () {
     alert("You found a match!");
     createBoard()
   } else {
-    alert("Sorry, try again.");
+    alert("Sorry, try again!");
   }
 };
 var flipCard = function () {
